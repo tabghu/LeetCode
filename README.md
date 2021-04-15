@@ -15,3 +15,5 @@
 [leetcode70. 爬楼梯C++三种方法实现优化](https://blog.csdn.net/qq_36711295/article/details/113988212?spm=1001.2014.3001.5501)
 
 [力扣leetcode剑指 Offer 10- I. 斐波那契数列C++](https://blog.csdn.net/qq_36711295/article/details/113988314?spm=1001.2014.3001.5501)
+
+[力扣leetcode剑指 Offer 56 - II. 数组中数字出现的次数 IIC++](https://blog.csdn.net/qq_36711295/article/details/114294798?spm=1001.2014.3001.5501)
