@@ -43,8 +43,11 @@
 
 [力扣leetcode栈和队列相互实现](https://editor.csdn.net/md/?articleId=114412476)
 
+[剑指 Offer 58 - II. 左旋转字符串C++](https://blog.csdn.net/qq_36711295/article/details/115605556?spm=1001.2014.3001.5501)
 
+[剑指 Offer 64. 求1+2+…+nC++](https://blog.csdn.net/qq_36711295/article/details/114799447?spm=1001.2014.3001.5501)
 
+[力扣leetcode77组合C++](https://blog.csdn.net/qq_36711295/article/details/114497790?spm=1001.2014.3001.5501)
 
 
 
