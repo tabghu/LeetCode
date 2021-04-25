@@ -14,6 +14,11 @@
 [力扣leetcode剑指 Offer 56 - II. 数组中数字出现的次数 IIC++](https://blog.csdn.net/qq_36711295/article/details/114294798?spm=1001.2014.3001.5501)
 
 [leetcode26. 删除有序数组中的重复项](https://blog.csdn.net/qq_36711295/article/details/115836303?spm=1001.2014.3001.5501)
+
+[力扣leetcode136. 只出现一次的数字C++](https://blog.csdn.net/qq_36711295/article/details/114295324?spm=1001.2014.3001.5501)
+
+[力扣leetcode剑指 Offer 56 - I. 数组中数字出现的次数C++](https://blog.csdn.net/qq_36711295/article/details/114295498?spm=1001.2014.3001.5501)
+
 ### 链表
 [剑指 Offer 22. 链表中倒数第k个节点](https://blog.csdn.net/qq_36711295/article/details/115836797?spm=1001.2014.3001.5501)
 
@@ -50,7 +55,6 @@
 [剑指 Offer 64. 求1+2+…+nC++](https://blog.csdn.net/qq_36711295/article/details/114799447?spm=1001.2014.3001.5501)
 
 [力扣leetcode77组合C++](https://blog.csdn.net/qq_36711295/article/details/114497790?spm=1001.2014.3001.5501)
-
 
 
 
