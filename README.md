@@ -22,6 +22,9 @@
 ### 链表
 [剑指 Offer 22. 链表中倒数第k个节点](https://blog.csdn.net/qq_36711295/article/details/115836797?spm=1001.2014.3001.5501)
 
+[剑指 Offer 25. 合并两个排序的链表](https://blog.csdn.net/qq_36711295/article/details/115979012?spm=1001.2014.3001.5501)
+
+
 ### 二叉树
 [剑指 Offer 55 - I. 二叉树的深度C++](https://blog.csdn.net/qq_36711295/article/details/115606254?spm=1001.2014.3001.5501)
 
@@ -35,6 +38,8 @@
 
 ### 字符串
 [剑指 Offer 58 - II. 左旋转字符串C++](https://blog.csdn.net/qq_36711295/article/details/115605556?spm=1001.2014.3001.5501)
+
+[牛客网剑指offer把字符串转换成整数C++](https://blog.csdn.net/qq_36711295/article/details/116132304?spm=1001.2014.3001.5501)
 
 
 
@@ -55,6 +60,9 @@
 [剑指 Offer 64. 求1+2+…+nC++](https://blog.csdn.net/qq_36711295/article/details/114799447?spm=1001.2014.3001.5501)
 
 [力扣leetcode77组合C++](https://blog.csdn.net/qq_36711295/article/details/114497790?spm=1001.2014.3001.5501)
+
+
+
 
 
 
