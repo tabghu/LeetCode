@@ -43,6 +43,7 @@
 
 [牛客网剑指offer把字符串转换成整数C++](https://blog.csdn.net/qq_36711295/article/details/116132304?spm=1001.2014.3001.5501)
 
+[字符串相加C++](https://blog.csdn.net/qq_36711295/article/details/116133502?spm=1001.2014.3001.5501)
 
 
 # 未分类
