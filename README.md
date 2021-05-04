@@ -70,4 +70,4 @@
 [八大排序之快速排序C++详解](https://blog.csdn.net/qq_36711295/article/details/116174759?spm=1001.2014.3001.5501)
 
 
-
+[C++快速幂](https://blog.csdn.net/qq_36711295/article/details/116379089?spm=1001.2014.3001.5501)
