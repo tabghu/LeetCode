@@ -73,3 +73,5 @@
 [C++快速幂](https://blog.csdn.net/qq_36711295/article/details/116379089?spm=1001.2014.3001.5501)
 
 [二分查找C++详解](https://blog.csdn.net/qq_36711295/article/details/116240322?spm=1001.2014.3001.5501)
+
+[力扣回文数C++](https://blog.csdn.net/qq_36711295/article/details/116374702?spm=1001.2014.3001.5501)
