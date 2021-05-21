@@ -22,6 +22,7 @@
 [力扣1011. 在 D 天内送达包裹的能力C++](https://blog.csdn.net/qq_36711295/article/details/116161097?spm=1001.2014.3001.5501)
 
 [27. 移除元素](https://blog.csdn.net/qq_36711295/article/details/115859890?spm=1001.2014.3001.5501)
+[剑指 Offer 42. 连续子数组的最大和](https://blog.csdn.net/qq_36711295/article/details/115606617?spm=1001.2014.3001.5501)
 
 ### 链表
 [剑指 Offer 22. 链表中倒数第k个节点](https://blog.csdn.net/qq_36711295/article/details/115836797?spm=1001.2014.3001.5501)
