@@ -22,7 +22,10 @@
 [力扣1011. 在 D 天内送达包裹的能力C++](https://blog.csdn.net/qq_36711295/article/details/116161097?spm=1001.2014.3001.5501)
 
 [27. 移除元素](https://blog.csdn.net/qq_36711295/article/details/115859890?spm=1001.2014.3001.5501)
+
 [剑指 Offer 42. 连续子数组的最大和](https://blog.csdn.net/qq_36711295/article/details/115606617?spm=1001.2014.3001.5501)
+
+[378. 有序矩阵中第 K 小的元素](https://blog.csdn.net/qq_36711295/article/details/119706488?spm=1001.2014.3001.5501)
 
 ### 链表
 [剑指 Offer 22. 链表中倒数第k个节点](https://blog.csdn.net/qq_36711295/article/details/115836797?spm=1001.2014.3001.5501)
@@ -38,6 +41,8 @@
 [剑指 Offer 27. 二叉树的镜像C++](https://blog.csdn.net/qq_36711295/article/details/115605993?spm=1001.2014.3001.5501)
 
 [力扣leetcode N叉树的遍历](https://blog.csdn.net/qq_36711295/article/details/114336481?spm=1001.2014.3001.5501)
+
+[【leetcode】1530. 好叶子节点对的数量](https://blog.csdn.net/qq_36711295/article/details/119719976?spm=1001.2014.3001.5501)
 ### 栈和队列
 [力扣leetcode栈和队列相互实现](https://editor.csdn.net/md/?articleId=114412476)
 
@@ -49,12 +54,14 @@
 [字符串相加C++](https://blog.csdn.net/qq_36711295/article/details/116133502?spm=1001.2014.3001.5501)
 
 ### 动态规划
-[【leetcode】647. 回文子串](https://blog.csdn.net/qq_36711295/article/details/119781306?spm=1001.2014.3001.5501)
+[647. 回文子串](https://blog.csdn.net/qq_36711295/article/details/119781306?spm=1001.2014.3001.5501)
 
 ### 回溯法
-[【leetcode】93. 复原 IP 地址](https://blog.csdn.net/qq_36711295/article/details/119780918?spm=1001.2014.3001.5501)
+[93. 复原 IP 地址](https://blog.csdn.net/qq_36711295/article/details/119780918?spm=1001.2014.3001.5501)
 
-[【leetcode】131. 分割回文串](https://blog.csdn.net/qq_36711295/article/details/119779361?spm=1001.2014.3001.5501)
+[200. 岛屿数量](https://blog.csdn.net/qq_36711295/article/details/119710479?spm=1001.2014.3001.5501)
+
+[131. 分割回文串](https://blog.csdn.net/qq_36711295/article/details/119779361?spm=1001.2014.3001.5501)
 
 # 未分类
 [力扣leetcode1052. 爱生气的书店老板C++](https://blog.csdn.net/qq_36711295/article/details/113975533?spm=1001.2014.3001.5501)
