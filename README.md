@@ -48,6 +48,13 @@
 
 [字符串相加C++](https://blog.csdn.net/qq_36711295/article/details/116133502?spm=1001.2014.3001.5501)
 
+### 动态规划
+[【leetcode】647. 回文子串](https://blog.csdn.net/qq_36711295/article/details/119781306?spm=1001.2014.3001.5501)
+
+### 回溯法
+[【leetcode】93. 复原 IP 地址](https://blog.csdn.net/qq_36711295/article/details/119780918?spm=1001.2014.3001.5501)
+
+[【leetcode】131. 分割回文串](https://blog.csdn.net/qq_36711295/article/details/119779361?spm=1001.2014.3001.5501)
 
 # 未分类
 [力扣leetcode1052. 爱生气的书店老板C++](https://blog.csdn.net/qq_36711295/article/details/113975533?spm=1001.2014.3001.5501)
